@@ -1,0 +1,15 @@
+name: recapp
+dependencies:
+  - python>=3.9
+  - numpy
+  - scipy
+  - scikit-learn
+  - jupyterlab
+  - numba
+  - pandas
+  - pyyaml
+  - loguru
+  - pip
+  - pip:
+    - simple-parsing
+    - libsvmdata
